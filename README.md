@@ -9,3 +9,10 @@ With the hosted files you can run:
 webdriver-manager update --alternate_cdn=http://johanneshoppe.github.io/webdriver-manager-alternate-cdn/
 ```
 
+<hr>
+
+
+Hosted files:
+
+* [2.51/selenium-server-standalone-2.51.0.jar](https://selenium-release.storage.googleapis.com/2.51/selenium-server-standalone-2.51.0.jar) == [2.51/selenium-server-standalone-2.51.0.jar](http://johanneshoppe.github.io/webdriver-manager-alternate-cdn/2.51/selenium-server-standalone-2.51.0.jar)
+* [2.21/chromedriver_win32.zip](https://chromedriver.storage.googleapis.com/2.21/chromedriver_win32.zip) == [](http://johanneshoppe.github.io/webdriver-manager-alternate-cdn/2.21/chromedriver_win32.zip)
